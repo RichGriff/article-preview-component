@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.jpg)
 
 
 ### Links
@@ -64,6 +64,6 @@ Next.js is a natural progression from my experience with React, therefore I plan
 ## Author
 
 - Website - [Rich Griffiths](https://richardgriffiths-portfolio.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RichGriff)
+- Frontend Mentor - [RichGriff](https://www.frontendmentor.io/profile/RichGriff)
 
 
